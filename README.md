@@ -1,4 +1,4 @@
-# Go-Stream: Real-Time BTC/USDT Trading Stack
+# Go-Tradingview: Real-Time BTC/USDT TradingView Stack
 
 A high-performance, containerized streaming architecture designed to capture, store and visualize real-time BTC/USDT market data. This project demonstrates a complete data engineering pipeline using Go, Kafka and QuestDB, featuring a professional TradingView dashboard.
 
